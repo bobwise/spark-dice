@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spark-dice/static/css/main.628504ae.chunk.css",
+    "main.js": "/spark-dice/static/js/main.b51fbba4.chunk.js",
+    "main.js.map": "/spark-dice/static/js/main.b51fbba4.chunk.js.map",
+    "runtime-main.js": "/spark-dice/static/js/runtime-main.895ffa8b.js",
+    "runtime-main.js.map": "/spark-dice/static/js/runtime-main.895ffa8b.js.map",
+    "static/js/2.f155c00a.chunk.js": "/spark-dice/static/js/2.f155c00a.chunk.js",
+    "static/js/2.f155c00a.chunk.js.map": "/spark-dice/static/js/2.f155c00a.chunk.js.map",
+    "index.html": "/spark-dice/index.html",
+    "precache-manifest.75538046648ec48e33e867978bc3c2ce.js": "/spark-dice/precache-manifest.75538046648ec48e33e867978bc3c2ce.js",
+    "service-worker.js": "/spark-dice/service-worker.js",
+    "static/css/main.628504ae.chunk.css.map": "/spark-dice/static/css/main.628504ae.chunk.css.map",
+    "static/js/2.f155c00a.chunk.js.LICENSE.txt": "/spark-dice/static/js/2.f155c00a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.895ffa8b.js",
+    "static/js/2.f155c00a.chunk.js",
+    "static/css/main.628504ae.chunk.css",
+    "static/js/main.b51fbba4.chunk.js"
+  ]
+}
